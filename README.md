@@ -1,11 +1,6 @@
 # encode-bootcamp
 Encode Bootcamp
 
-# Lesson 3 (08 Nov 2021)
-Familiarity with Remix IDE.
-
-# Lesson 2 (04 Nov 2021)
-TODO
-
-# Lesson 1 (03 Nov 2021)
-TODO
+- [Lesson 3 (08 Nov 2021)](lesson-3/README.md)
+- [Lesson 2 (04 Nov 2021)](lesson-2/README.md)
+- [Lesson 1 (03 Nov 2021)](lesson-1/README.md)
