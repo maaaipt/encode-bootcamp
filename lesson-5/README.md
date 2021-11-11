@@ -1,0 +1,14 @@
+Solidity
+- inheritance
+- variables types (enums, byte array, boolean, etc..)
+- functions types
+- constants/immutables (done in the constructor)
+- interfaces
+- receive/fallback to contract address (unique functions)
+- handling errors (requires, assert, revert, try catch)
+  - requires often used in modifiers
+  - asserts it must not happen in the contract and it's considered not tollerable, stop the processing, indicades drastic problem
+  - revert is similar to throw
+  - try-catch when we call other contracts, cause they can fail for some reason in different ways
+- import, done a compile time (flattening for verifying) and become part of the contract deployed
+- runtime call of contracts (contract address, name of the functions to call, etc..)
