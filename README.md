@@ -1,7 +1,7 @@
 # encode-bootcamp
 Index of lessons
 
-
+- [Lesson 8 (16 Nov 2021)](lesson-8/)
 - [Lesson 7 (15 Nov 2021)](lesson-7/)
 Week 3
 

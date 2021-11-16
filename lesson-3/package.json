@@ -1,0 +1,14 @@
+{
+  "name": "lesson-3",
+  "version": "1.0.0",
+  "description": "Familiarity with Remix IDE.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.4.18"
+  }
+}
