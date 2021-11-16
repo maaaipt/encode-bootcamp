@@ -34,3 +34,4 @@
 - Web3js or Waffle/Ethers
 - Unit test can be convenient
 - Nice feature like plugins integrating with truffle and waffle
+- Like Truffle helps to automate tasks, like deployments.
