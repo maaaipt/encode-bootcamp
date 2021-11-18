@@ -1,0 +1,15 @@
+{
+  "name": "lesson-7",
+  "version": "1.0.0",
+  "description": "Familiarity with IPFS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs": "0.60.0",
+    "it-all": "1.0.6"
+  }
+}
