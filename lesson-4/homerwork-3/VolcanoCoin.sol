@@ -9,7 +9,7 @@ contract VolcanoCoin {
     constructor() {
         totalSupply = 10000;
         owner = msg.sender;
-}    
+    }
     
     function getTotal() public view returns(uint) {
         return totalSupply;
